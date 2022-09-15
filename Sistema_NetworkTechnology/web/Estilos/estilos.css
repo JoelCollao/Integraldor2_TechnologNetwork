@@ -1,0 +1,61 @@
+#cabecera{
+	background-color: red;
+}
+#navegador{
+	background-color: transparent;
+	max-height: 20%;
+	
+}
+#navegador li{
+	border-style: solid;
+	margin: 10px 10px;
+	padding: 0.5em 1em 0.5em 1em;
+	float: left;
+	list-style-type: none;
+	width: 60%;
+	background-color: black;
+	color:red;
+	text-align: center;
+	border-radius: 10px;
+	border-color: gold;
+	border-bottom-color: black; 
+}
+#pie {
+	background-color: gray;
+}
+td{
+	vertical-align: top;
+	column-width: 20%;
+}
+#subseccion1, #subseccion2, #subseccion3, #subseccion4, #subseccion5, #subseccion6, #subseccion7{
+	position: absolute;
+	background-color: black;
+	padding: 0.2em 0.5em;
+	border-radius: 20px;
+	border-color: gold;
+	border-style: solid;
+	margin: 6.5px;
+	align-content: center;
+	border-top-color: black;
+}
+a:link, a:active{
+	color:yellow;
+	font: bold 14px cursive;
+}
+a:visited{
+	color:purple;
+	font: bold 14px cursive;
+}
+a:hover{
+	background-color: blue;
+	font-family: cursive;
+	font-size: 16px;
+	color:white;
+}
+img{
+	max-width: 300px;
+	max-height: 150px;
+	border-style: solid;
+}
+
+
